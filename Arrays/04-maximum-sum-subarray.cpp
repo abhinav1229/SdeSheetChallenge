@@ -20,7 +20,6 @@ int main()
 {
     int arr[] = {2, 3, -1, 4, -5, 3, 6};
     int n = sizeof(arr) / sizeof(arr[0]);
-
     int maxSum = maxSubarraySum();
     
     cout << "Max Sum Subarray is: " << maxSum;
