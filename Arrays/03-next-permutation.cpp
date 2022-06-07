@@ -35,7 +35,6 @@ vector<int> nextPermutation(vector<int> &permutation, int n)
 
 int main()
 {
-    int 
     vector<int> per(2, 3, 1, 4, 5);
     vector<int> result;
     int n = 5;
